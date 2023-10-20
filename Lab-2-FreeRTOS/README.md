@@ -11,6 +11,17 @@ Create 2 tasks and schedule them using FreeRTOS's task management functions:
   <li>A cyclic task printing your srudent ID every second.</li>
   <li>An acyclic task polling a button and print "ESP32" every when the button is pressed.</li>
 </ul>
+
+## Required material:
+| No.	| Name		      	| Quantity |
+| ---	|:------------------------:| --------:|
+| 1	| ESP WROOM 32 board 		|   1	    	|
+| 2	| Breadboard      		|   1 	|
+| 3 	| 100Ohm resistor      	|   1 	|
+| 4	| Jump wires      		|   3 	|
+| 5 	| Push button SPST      	|   1 	|
+
+
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- |
 
