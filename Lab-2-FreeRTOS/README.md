@@ -21,6 +21,20 @@ Create 2 tasks and schedule them using FreeRTOS's task management functions:
 | 4	| Jump wires      		|   3 	|
 | 5 	| Push button SPST      	|   1 	|
 
+## Cicuit diagram
+|![Circuit diagram](https://github.com/phuc0503/Embedded-System-Labs-CO3054/blob/master/Images/Lab2/circuit%20diagram.png "Circuit diagram")|
+|:--:| 
+|*Circuit diagram*|
+![Reality circuit](https://github.com/phuc0503/Embedded-System-Labs-CO3054/blob/master/Images/Lab2/reality%20circuit.jpg "Reality circuit")
+*Reality circuit*
+
+## Output
+|![Output](https://github.com/phuc0503/Embedded-System-Labs-CO3054/blob/master/Images/Lab2/output.png "Ouput")|
+|:--:| 
+|*Output*|
+
+## Demo
+[Click here to watch demo video on Youtube](https://youtu.be/7jc0QhnAovw)
 
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- |
