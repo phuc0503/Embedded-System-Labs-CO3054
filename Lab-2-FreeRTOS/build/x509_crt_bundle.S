@@ -1,4 +1,4 @@
-/* * Data converted from D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

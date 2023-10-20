@@ -1,0 +1,28 @@
+[1/9] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D D:\Embedded\ESP32\Embedded-System-Lab-CO3054\Lab-2-FreeRTOS\build\bootloader\esp-idf\esptool_py && D:\Embedded\ESP32\Espressif\python_env\idf5.0_py3.8_env\Scripts\python.exe D:/Embedded/ESP32/Espressif/frameworks/esp-idf-v5.0.1/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6710 bytes. 0x8f0 bytes (8%) free.
+[2/7] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/main/main.c: In function 'define_IO':
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/main/main.c:22:35: warning: comparison between pointer and integer
+   22 |     if(GPIO_Pin < 34 && pull_Mode != NULL)
+      |                                   ^~
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/main/main.c: In function 'printStudentID':
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/main/main.c:31:42: warning: passing argument 3 of 'define_IO' makes integer from pointer without a cast [-Wint-conversion]
+   31 |     define_IO(LED_PIN, GPIO_MODE_OUTPUT, NULL);
+      |                                          ^~~~
+      |                                          |
+      |                                          void *
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/main/main.c:18:51: note: expected 'char' but argument is of type 'void *'
+   18 | void define_IO(int GPIO_Pin, char direction, char pull_Mode)
+      |                                              ~~~~~^~~~~~~~~
+[3/7] Linking C static library esp-idf\main\libmain.a
+[4/7] Generating ld/sections.ld
+[5/7] Linking CXX executable Lab-2-FreeRTOS.elf
+[6/7] Generating binary image from built executable
+esptool.py v4.5
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/Lab-2-FreeRTOS.bin
+[7/7] cmd.exe /C "cd /D D:\Embedded\ESP32\Embedded-System-Lab-CO3054\Lab-2-FreeRTOS\build\esp-idf\esptool_py && D:\Embedded\ESP32\Espressif\python_env\idf5.0_py3.8_env\Scripts\python.exe D:/Embedded/ESP32/Espressif/frameworks/esp-idf-v5.0.1/components/partition_table/check_sizes.py --offset 0x8000 partition --type app D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/partition_table/partition-table.bin D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/Lab-2-FreeRTOS.bin"
+Lab-2-FreeRTOS.bin binary size 0x2ce50 bytes. Smallest app partition is 0x100000 bytes. 0xd31b0 bytes (82%) free.

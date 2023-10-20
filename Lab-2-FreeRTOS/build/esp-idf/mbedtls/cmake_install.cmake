@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake")
+  include("D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake")
 endif()
 

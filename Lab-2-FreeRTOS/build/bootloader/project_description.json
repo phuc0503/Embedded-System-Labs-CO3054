@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "D:/Embedded/ESP32/Espressif/frameworks/esp-idf-v5.0.1/components/bootloader/subproject",
-    "build_dir":          "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader",
-    "config_file":        "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/sdkconfig",
+    "build_dir":          "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader",
+    "config_file":        "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/sdkconfig",
     "config_defaults":    "",
     "bootloader_elf":     "",
     "app_elf":            "bootloader.elf",

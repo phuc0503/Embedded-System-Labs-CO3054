@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader-complete.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader-complete.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "D:/Embedded/ESP32/esp/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "D:/Embedded/ESP32/Embedded-System-Lab-CO3054/Lab-2-FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 
