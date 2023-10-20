@@ -1,3 +1,16 @@
+# Lab 02: ESP32 GPIO and FreeRTOS task
+## Goal
+<ul>
+  <li>Read the input from or write the output to an GPIO pin.</li>
+  <li>Create, schedule, and destroy FreeRTOS tasks on the ESP32 development board.</li>
+</ul>
+
+## Exercises
+Create 2 tasks and schedule them using FreeRTOS's task management functions:
+<ul>
+  <li>A cyclic task printing your srudent ID every second.</li>
+  <li>An acyclic task polling a button and print "ESP32" every when the button is pressed.</li>
+</ul>
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- |
 
