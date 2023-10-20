@@ -14,7 +14,7 @@ Create 2 tasks and schedule them using FreeRTOS's task management functions:
 
 ## Required material:
 | No.	| Name		      	| Quantity |
-| ---	|:------------------------:| --------:|
+| ---	|:-------------------------|:--------:|
 | 1	| ESP WROOM 32 board 		|   1	    	|
 | 2	| Breadboard      		|   1 	|
 | 3 	| 100Ohm resistor      	|   1 	|
