@@ -17,9 +17,10 @@ Create 2 tasks and schedule them using FreeRTOS's task management functions:
 | ---	|:-------------------------|:--------:|
 | 1	| ESP WROOM 32 board 		|   1	    	|
 | 2	| Breadboard      		|   1 	|
-| 3 	| 100Ohm resistor      	|   1 	|
-| 4	| Jump wires      		|   3 	|
-| 5 	| Push button SPST      	|   1 	|
+| 3  | LED                |  1  |
+| 4 	| 100Ohm resistor      	|   1 	|
+| 5	| Jump wires      		|   3 	|
+| 6 	| Push button SPST      	|   1 	|
 
 ## Cicuit diagram
 |![Circuit diagram](https://github.com/phuc0503/Embedded-System-Labs-CO3054/blob/master/Images/Lab2/circuit%20diagram.png "Circuit diagram")|
