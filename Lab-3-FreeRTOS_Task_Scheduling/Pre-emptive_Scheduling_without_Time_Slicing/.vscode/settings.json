@@ -13,13 +13,5 @@
     ],
     "idf.portWin": "COM6",
     "idf.pythonBinPathWin": "D:/Embedded/ESP32/Espressif/python_env/idf5.0_py3.8_env/Scripts/python.exe",
-    "idf.toolsPathWin": "D:\\Embedded\\ESP32\\Espressif",
-    "files.associations": {
-        "*.embeddedhtml": "html",
-        "freertos.h": "c",
-        "semphr.h": "c",
-        "task.h": "c"
-    },
-    "idf.flashType": "UART",
-    "C_Cpp.errorSquiggles": "disabled"
+    "idf.toolsPathWin": "D:\\Embedded\\ESP32\\Espressif"
 }
