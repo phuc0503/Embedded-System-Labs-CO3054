@@ -1,32 +1,24 @@
-# _Sample project_
+# Lab 05: FreeRTOS Software Timer
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
+## Goal
+  Able to understand and use FreeRTOS Software Timer.
 
-This is the simplest buildable example. The example is used by command `idf.py create-project`
-that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
+## Exercises
+Create 2 software timers sharing only one timer callback function, in which:
+- The first timer is used to print "ahihi" every 2 seconds and will stop after 10 times printing.
+- The second timer is used to print "ihaha" every 3 seconds and will stop after 5 times printing.
 
+## Output
+|![Output](https://github.com/phuc0503/Embedded-System-Labs-CO3054/blob/master/Images/Lab5/output.png "Ouput")|
+|:--:| 
+|*Output*|
 
-
-## How to use example
-We encourage the users to use the example as a template for the new projects.
-A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).
-
-## Example folder contents
-
-The project **sample_project** contains one source file in C language [main.c](main/main.c). The file is located in folder [main](main).
-
-ESP-IDF projects are built using CMake. The project build configuration is contained in `CMakeLists.txt`
-files that provide set of directives and instructions describing the project's source files and targets
-(executable, library, or both). 
-
-Below is short explanation of remaining files in the project folder.
-
+## To build and run project
+- Build:
 ```
-├── CMakeLists.txt
-├── main
-│   ├── CMakeLists.txt
-│   └── main.c
-└── README.md                  This is the file you are currently reading
+idf.py build
 ```
-Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
-They are not used or needed when building with CMake and idf.py.
+- Flash and monitor (replace `[PORT]` with the actual port, you can open `Device Manager > Ports (COM & LPT)` to check which port ESP32 is using):
+```
+idf.py -p [PORT] flash monitor
+```
